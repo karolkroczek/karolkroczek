@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @karolkroczek
 - 👀 I’m interested in IT, programming and gym!
 - 🌱 I’m currently learning React, SCSS, React Router
-- 📫 Contact only via email
+- 📫 Contact only via email karolkroczek10@gmail.com
 
 <!---
 karolkroczek/karolkroczek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
