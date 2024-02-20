@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karolkroczek
 - 👀 I’m interested in IT, programming and gym!
-- 🌱 I’m currently learning Laravel, Jest
+- 🌱 I’m currently learning Angular
 - 📫 Contact only via email karolkroczek10@gmail.com
 
 <!---
