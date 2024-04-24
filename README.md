@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karolkroczek
+# 👋 Hi, I’m @karolkroczek
 - 👀 I’m interested in IT, programming and gym!
 - 🌱 I’m currently improving skill in Angular and Spring 
 - 📫 Contact only via email karolkroczek10@gmail.com
