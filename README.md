@@ -5,14 +5,14 @@ Welcome to my GitHub profile! I'm an aspiring developer passionate about modern 
 ## 👨‍💻 About Me
 
 - 🎯 I’m deeply interested in **IT**, **programming**, and the broader world of **software development**.
-- 💡 Outside of coding, I enjoy working out at the gym — staying fit helps me stay focused and disciplined in my dev journey.
+- 💡 Outside of coding, I enjoy working out at the gym - staying fit helps me stay focused and disciplined in my dev journey.
 - 🌱 Currently I'm focusing on expanding my skills in:
   - 🅰️ **Angular** – building scalable, reactive web apps
   - 🚀 **Astro** – crafting fast and optimized static sites
 
 ## 📌 Projects
 
-Here you’ll find a mix of personal projects, experiments, and learning resources. I try to keep everything well-documented and beginner-friendly — feel free to explore or fork something interesting!
+Here you’ll find a mix of personal projects, experiments, and learning resources. I try to keep everything well-documented and beginner-friendly - feel free to explore or fork something interesting!
 
 ## 📫 Let's Connect
 
