@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Karol Kroczek!
 
-Welcome to my GitHub profile! I'm an aspiring developer passionate about modern web technologies, clean code, and continuous self-improvement — both in tech and in life.
+Welcome to my GitHub profile! I'm an aspiring developer passionate about modern web technologies, clean code, and continuous self-improvement - both in tech and in life.
 
 ## 👨‍💻 About Me
 
